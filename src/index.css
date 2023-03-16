@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  box-sizing: border-box;
+}
+
+.slider>.swiper>.swiper-wrapper:first-child{
+  margin-left: 10px;
+}
+
+/* .slider>.swiper>.swiper-button-prev,.slider>.swiper>.swiper-button-next{
+  transform: translateY(-50px);
+  visibility: none;
+}
+
+.slider>.swiper>.swiper-button-prev{
+  transform: translateX(-100%);
+  position: ;
+} */
+
